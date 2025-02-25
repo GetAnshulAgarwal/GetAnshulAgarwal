@@ -1,4 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAGWk-DgDWU/1PBjFstV_iIm9Me5z7rYCw/edit?utm_content=DAGWk-DgDWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://github.com/GetAnshulAgarwal)
+<img src="github_banner.png" alt="GitHub Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Anshul Agarwal</h1>
 <h3 align="center">Crafting Digital Solutions, One Line at a Time!!</h3>
 
