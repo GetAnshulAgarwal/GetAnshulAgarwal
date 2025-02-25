@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/3YdrpFyd/banner-Git.webp)](https://github.com/GetAnshulAgarwal)
+[![MasterHead](<a href="https://ibb.co/3YdrpFyd"><img src="https://i.ibb.co/3YdrpFyd/banner-Git.webp" alt="banner-Git" border="0"></a>)](https://github.com/GetAnshulAgarwal)
 <h1 align="center">Hi 👋, I'm Anshul Agarwal</h1>
 <h3 align="center">Crafting Digital Solutions, One Line at a Time!!</h3>
 
@@ -32,4 +32,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GetAnshulAgarwal&show_icons=true&locale=en&layout=compact" alt="GetAnshulAgarwal" /></p>
-<a href="https://ibb.co/3YdrpFyd"><img src="https://i.ibb.co/3YdrpFyd/banner-Git.webp" alt="banner-Git" border="0"></a>
