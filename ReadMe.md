@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)](https://github.com/dhruvx19)
-<h1 align="center">Hi 👋, I'm Dhruv Balchandani</h1>
+<h1 align="center">Hi 👋, I'm Anshul Agarwal</h1>
 <h3 align="center">Crafting Digital Solutions, One Line at a Time!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvx19&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvx19" /> </p>
@@ -8,22 +8,20 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://dhruvbalchandani.vercel.app](https://dhruvbalchandani.tech)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Application Development**
 
-- 📫 How to reach me **dhruvbalchandani1@gmail.com**
+- 📫 How to reach me **anshulagarwal132@gmail.com**
 
-- ⚡ Fun fact **I'm an avid traveler, collecting unique souvenirs and unforgettable experiences along the way!**
+- ⚡ Fun fact  ** Fun fact: I love badminton & UI/UX design!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhruvx19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvx19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruvbalchandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvbalchandani" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruvx19_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvx19_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dhruvx19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhruvx19" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dhruvbalchandani9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dhruvbalchandani9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruvx19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvx19" height="30" width="40" /></a>
+<a href="https://x.com/AgarwalAnshul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvx19" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anshul-agarwal-974542215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvbalchandani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anshul_agarwal_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvx19_" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anshul10032003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvx19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
