@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/AgarwalAnshul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvx19" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/anshul-agarwal-974542215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvbalchandani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anshul_agarwal_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvx19_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/anshul10032003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvx19" height="30" width="40" /></a>
+<a href="https://x.com/AgarwalAnshul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnshulAgarwal123" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anshul-agarwal-974542215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshulAgarwal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anshul_agarwal_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshul_agarwal_10" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anshul10032003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshul10032003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
